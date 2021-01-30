@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-language="Chinese" tvg-logo="https://baseimages.tonton.com.my/1521195080235_8TV_Channel_Image.jpg" group-title="",8TV
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTxcv03VU7dhhsk1DRz7wHA)/dm/3/x6qud17/s/live-4.m3u8
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHfbq6hKhdwQDibiQPw-ei3w)/dm/3/x6qud17/s/live-4.m3u8
 #EXTINF:-1 tvg-id="NTV7" tvg-name="NTV7" tvg-language="" tvg-logo="https://baseimages.tonton.com.my/1520235588430_NTV7_channel_logo.jpg" group-title="",NTV7
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHcqAToKXGbtobC_4NYDJkos)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHQ2BtZtmX6pB-r_NtiiAW0o)/dm/3/x6qp6ou/s/live-4.m3u8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-language="" tvg-logo="https://baseimages.tonton.com.my/1514366372608_channel-logo-tv9.png" group-title="",TV9
 https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUG3xSxkoHjO17hY9k_pQyw)/dm/3/x6qqja6/s/live-4.m3u8
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-language="" tvg-logo="https://baseimages.tonton.com.my/1514366375397_channel-logo-tv3.png" group-title="",TV3
