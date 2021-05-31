@@ -2,17 +2,16 @@
 
 #EXTINF:0,8TV
 #EXTGRP:xtra
-http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRkuGiPHgIrR1-hqv1u0200)/dm/3/x6qud17/s/live-2.m3u8
 #EXTINF:0,NTV7
 #EXTGRP:xtra
-http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master001.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZPoINgcMeDWVOA6MPU06yQ)/dm/3/x6qp6ou/s/live-2.m3u8
 #EXTINF:0,TV9
 #EXTGRP:xtra
-http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdy-2SruJoQiEpYBkFuvoCo)/dm/3/x6qqja6/s/live-2.m3u8
 #EXTINF:0,TV3
 #EXTGRP:xtra
-http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHX5H4StgKreBg2lsBiYIMT4)/dm/3/x6qp375/d/live-2.m3u8
 #EXTINF:0,CNA
 #EXTGRP:xtra
-http://edge.mediacorp.swiftserve.com/live/cna/amlst:cnai-pc/media_b1472000_qaGRjb3JlPTIuMTAuMyZnPVdTRkJOTUdORkRYVg==.abst/Seg1-Frag10907?als=12.68,12,1.78,4,1396,2852,25,5,0,74,f,27.31,69.47,t,u,WSFBNMGNFDXV,2.10.3,74&hdcore=2.10.3
-
+https://stream-01.sg1.dailymotion.com/sec(7zHXJsrpGnW1sC_CkKIalslazy5WUSCxrAo2-1XPRrc)/dm/3/x7ptegr/s/live-2.m3u8
